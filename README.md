@@ -13,3 +13,5 @@ pip install -r requirement.txt
 #run the code
 python main.py
 ```
+## Demo Project
+https://github.com/liunadirizkyh/trafiic-light/assets/113072942/666824f2-2888-4c56-94d8-ad8a87326223 
