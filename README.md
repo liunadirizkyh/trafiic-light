@@ -6,7 +6,7 @@ Traffic Light Automation is an intelligent solution for managing traffic using A
 ## Installation
 ```sh
 #clone this repository
-git clone https://github.com/liunadirizkyh/trafiic-light
+git clone https://github.com/liunadirizkyh/trafiic-light.git
 
 #install requirement
 pip install -r requirement.txt
